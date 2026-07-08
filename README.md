@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0237-delete-node-in-a-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
