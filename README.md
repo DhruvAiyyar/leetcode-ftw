@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
