@@ -104,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
