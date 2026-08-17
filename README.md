@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
 | ------- |
