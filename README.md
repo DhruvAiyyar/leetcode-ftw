@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0410-split-array-largest-sum) |
@@ -124,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
