@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0231-power-of-two) |
 ## Knapsack Problem
 |  |
