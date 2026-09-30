@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0240-search-a-2d-matrix-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0217-contains-duplicate) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0142-linked-list-cycle-ii) |
