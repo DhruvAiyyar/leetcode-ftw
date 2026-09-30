@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0494-target-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0347-top-k-frequent-elements) |
 | [1552-magnetic-force-between-two-balls](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -187,4 +191,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DhruvAiyyar/leetcode-ftw/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
